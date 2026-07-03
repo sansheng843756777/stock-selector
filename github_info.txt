@@ -1,0 +1,19 @@
+GitHub 账号信息
+══════════════════
+邮箱:    843756777@qq.com
+用户名:  seleven11  (已被注册，换一个)
+密码:    Xiao0220  (太常见被拦截，换一个)
+══════════════════
+
+问题说明:
+1. seleven11 被注册了 — 换一个 (建议: huangshiyi / sansheng777 / xiaoxiao0220 等)
+2. Xiao0220 太常见 — 换一个没有123456/0220/111111等常见组合的长密码
+   (建议: MyBirthday@2024 这类)
+
+手动修复：
+1. 浏览器已打开到 github.com/signup
+2. 改密码 → 改用户名 → 选国家 China → 点 Create account
+3. 去 qq邮箱收验证邮件 → 点验证链接
+4. 回到仓库页面 → 点 [Code → Codespaces → Create codespace]
+
+仓库代码已推送到 GitHub 后就能一键开启 Codespace
